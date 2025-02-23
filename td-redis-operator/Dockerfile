@@ -1,2 +1,2 @@
-FROM docker.io/td-redis-operator:latest
+FROM docker.io/tongduncloud/td-redis-operator:latest
 MAINTAINER Q
