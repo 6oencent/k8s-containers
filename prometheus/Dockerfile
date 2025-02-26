@@ -1,0 +1,2 @@
+FROM quay.io/prometheus/prometheus:v3.2.0
+MAINTAINER Q
