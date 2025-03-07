@@ -1,2 +1,2 @@
-FROM docker.io/bitnami/jenkins:2.492.2-debian-12-r0
+FROM docker.io/bitnami/jenkins:2.479.3-debian-12-r2
 MAINTAINER Q
