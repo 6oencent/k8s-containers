@@ -1,2 +1,2 @@
-FROM docker.io/istio/pilot:1.25.0
+FROM docker.io/istio/pilot:1.21.6
 MAINTAINER Q
