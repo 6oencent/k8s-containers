@@ -1,2 +1,2 @@
-FROM docker.io/jaegertracing/all-in-one:1.63.0
+FROM docker.io/jaegertracing/all-in-one:1.46
 MAINTAINER Q
