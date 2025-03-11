@@ -1,2 +1,2 @@
-FROM docker.io/grafana/grafana:11.5.2
+FROM docker.io/grafana/grafana:10.1.5
 MAINTAINER Q
