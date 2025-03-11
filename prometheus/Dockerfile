@@ -1,2 +1,2 @@
-FROM quay.io/prometheus/prometheus:v3.2.0
+FROM docker.io/prom/prometheus:v2.48.0
 MAINTAINER Q
