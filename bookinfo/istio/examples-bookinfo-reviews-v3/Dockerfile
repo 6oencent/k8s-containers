@@ -1,0 +1,2 @@
+FROM docker.io/istio/examples-bookinfo-reviews-v3:1.18.0
+MAINTAINER Q
